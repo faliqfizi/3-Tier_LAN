@@ -1,5 +1,7 @@
 # 3-Tier_LAN
-Configuring a 3-Tier LAN Network Architecture using Packet Tracer
+Configuring a 3-Tier LAN Network Architecture using Packet Tracer</br>
+Reference: Jeremy's IT Lab</br>
+NOTE: I setup & configured the network from scratch based on Jeremy's video.
 
 ![3-Tier LAN](https://github.com/faliqfizi/3-Tier_LAN/assets/140976235/0140eb24-1967-48a5-917a-e51f7afe9af1)
 
